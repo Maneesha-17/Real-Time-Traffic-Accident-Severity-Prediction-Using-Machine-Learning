@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+plotly
+tensorflow
+flask
+ipykernel
+seaborn
+dask
+keras
+fastapi
+jupyterlab
+kaggle
+patool
+requests
